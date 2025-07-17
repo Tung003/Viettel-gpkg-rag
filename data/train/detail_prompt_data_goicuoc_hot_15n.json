@@ -1,0 +1,50 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['DT20K']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['DT20K']:\nTên gói cước: DT20K chi tiết:\nƯu đãi\nGiá cước: 20.000đ/15 ngày\nƯu đãi:\n- 100.000đ để truy cập Internet (60đ/MB), gọi nội mạng (1.590đ/phút) và nhắn tin nội mạng (200đ/SMS)\nGói cước không gia hạn \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/DT20K"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['DT50K']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['DT50K']:\nTên gói cước: DT50K chi tiết:\nƯu đãi\nGiá cước: 50.000đ/15 ngày\nƯu đãi:\n- 250.000đ để truy cập Internet (60đ/MB), gọi nội mạng (1.590đ/phút) và nhắn tin nội mạng (200đ/SMS)\nGói cước không gia hạn \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/DT50K"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['DT100K']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['DT100K']:\nTên gói cước: DT100K chi tiết:\nƯu đãi\nGiá cước: 100.000đ/15 ngày\nƯu đãi:\n- 1.000.000đ để truy cập Internet (60đ/MB), gọi nội mạng (1.590đ/phút) và nhắn tin nội mạng (200đ/SMS)\nGói cước không gia hạn \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/DT100K"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['DT200K']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['DT200K']:\nTên gói cước: DT200K chi tiết:\nƯu đãi\nGiá cước: 200.000đ/15 ngày\nƯu đãi:\n- 2.000.000đ để truy cập Internet (60đ/MB), gọi nội mạng (1.590đ/phút) và nhắn tin nội mạng (200đ/SMS)\nGói cước không gia hạn \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/DT200K"
+      }
+    ]
+  }
+]

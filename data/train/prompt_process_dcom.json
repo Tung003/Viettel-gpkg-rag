@@ -1,0 +1,362 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DC5 có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 5000đ Ưu đãi \t Có 1GB trong 24h kể từ thời điểm đăng ký, hết 1GB truy cập với cước phí 9 76đ/50KB"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước DC5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 5000đ Ưu đãi \t Có 1GB trong 24h kể từ thời điểm đăng ký, hết 1GB truy cập với cước phí 9 76đ/50KB"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DC5 có chính sách gia hạn như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước tự động gia hạn Đối tượng áp dụng Thuê bao Dcom trả trước theo danh sách"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DC5 gia hạn khi nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước tự động gia hạn Đối tượng áp dụng Thuê bao Dcom trả trước theo danh sách"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký gói DC5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Bấm \"Đăng ký\" hoặc soạn tin DC5 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký gói DC5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Bấm \"Đăng ký\" hoặc soạn tin DC5 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gia hạn gói DC5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn tin HUY gửi 191 (xác nhận Y gửi 191)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để gia hạn gói DC5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn tin HUY gửi 191 (xác nhận Y gửi 191)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gói DC5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói cước Soạn HUYDATA gửi 191 (Xác nhận Y gửi 191)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để huỷ gói DC5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói cước Soạn HUYDATA gửi 191 (Xác nhận Y gửi 191)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói D10 có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 10000đ Ưu đãi \t   Có 3GB lưu lượng tốc độ cao trong 24h kể từ thời điểm đăng ký Hết 3GB truy cập với cước phí 9 76đ/50KB"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước D10 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 10000đ Ưu đãi \t   Có 3GB lưu lượng tốc độ cao trong 24h kể từ thời điểm đăng ký Hết 3GB truy cập với cước phí 9 76đ/50KB"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói D10 có chính sách gia hạn như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước tự động gia hạn Đối tượng áp dụng Thuê bao Dcom trả trước kích hoạt mới từ ngày 15/11/2018"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói D10 gia hạn khi nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước tự động gia hạn Đối tượng áp dụng Thuê bao Dcom trả trước kích hoạt mới từ ngày 15/11/2018"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký gói D10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Bấm \"Đăng ký\" hoặc soạn tin D10 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký gói D10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Bấm \"Đăng ký\" hoặc soạn tin D10 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gia hạn gói D10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn tin HUY gửi 191 (Xác nhận Y gửi 191)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để gia hạn gói D10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn tin HUY gửi 191 (Xác nhận Y gửi 191)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gói D10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy dịch vụ Soạn tin HUYDATA gửi 191(Xác nhận Y gửi 191)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để huỷ gói D10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy dịch vụ Soạn tin HUYDATA gửi 191(Xác nhận Y gửi 191)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói D15 có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước: 15.000đ Ưu đãi: 5GB trong 24h kể từ thời điểm đăng ký, hết 5GB tính cước 9.76đ/50KB."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước D15 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước: 15.000đ Ưu đãi: 5GB trong 24h kể từ thời điểm đăng ký, hết 5GB tính cước 9.76đ/50KB."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói D15 - phần Đối tượng áp dụng là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đối tượng áp dụng: Thuê bao Dcom trả trước kích hoạt mới trước ngày 15/11/2018."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Đối tượng áp dụng của gói cước D15 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đối tượng áp dụng: Thuê bao Dcom trả trước kích hoạt mới trước ngày 15/11/2018."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký gói D15?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký: Bấm \"Đăng ký\" hoặc soạn D15 gửi 191."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký gói D15?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký: Bấm \"Đăng ký\" hoặc soạn D15 gửi 191."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gia hạn gói D15?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn: Soạn HUY gửi 191 và làm theo hướng dẫn."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để gia hạn gói D15?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn: Soạn HUY gửi 191 và làm theo hướng dẫn."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gói D15?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy dịch vụ: Soạn tin HUYDATA gửi 191 (Xác nhận Y gửi 191)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để huỷ gói D15?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy dịch vụ: Soạn tin HUYDATA gửi 191 (Xác nhận Y gửi 191)"
+      }
+    ]
+  }
+]

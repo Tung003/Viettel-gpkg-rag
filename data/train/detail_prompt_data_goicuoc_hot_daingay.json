@@ -1,0 +1,74 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['3FB30']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['3FB30']:\nTên gói cước: 3FB30 chi tiết:\nƯu đãi\n3FB30: 90.000đ/90 ngày\nƯu đãi:\n- Truy cập Facebook và nhắn tin Messenger (tối đa 50GB/30 ngày)\n- Gói cước gia hạn sau 90 ngày\nĐăng ký: Soạn 3FB30 gửi 191 hoặc bấm gọi *098*2014#\nHủy gia hạn: Soạn HUY 3FB30 gửi 191\nHủy gói: Soạn HUYDATA 3FB30 gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/3FB30"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['3FB50K']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['3FB50K']:\nTên gói cước: 3FB50K chi tiết:\nƯu đãi\nGiá cước: 150.000đ/90 ngày\nƯu đãi:-Truy cập Facebook và nhắn tin Messenger (tối đa 50GB/30 ngày)\n- Gói cước gia hạn sau 90 ngày\nĐăng ký: Soạn 3FB50K gửi 191 hoặc bấm gọi *098*1294#\nHủy gia hạn: Soạn HUY 3FB50K gửi 191\nHủy gói cước: Soạn HUYDATA 3FB50K gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/3FB50K"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['6FB30']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['6FB30']:\nTên gói cước: 6FB30 chi tiết:\nƯu đãi\n6FB30: 180.000đ/180 ngày\nƯu đãi:\n- Truy cập Facebook và nhắn tin Messenger (tối đa 50GB/30 ngày).\n- Gói cước gia hạn sau 180 ngày.\nĐăng ký: Soạn 6FB30 gửi 191 hoặc bấm gọi *098*2015#\nHủy gia hạn: Soạn HUY 6FB30 gửi 191\nHủy gói: Soạn HUYDATA 6FB30 gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6FB30"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['6FB50K']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['6FB50K']:\nTên gói cước: 6FB50K chi tiết:\nƯu đãi\nGiá cước: 300.000đ/180 ngày\nƯu đãi:-Truy cập Facebook và nhắn tin Messenger (tối đa 50GB/30 ngày)\n- Gói cước gia hạn sau 180 ngày\nĐăng ký: Soạn 6FB50K gửi 191 hoặc bấm gọi *098*1295#\nHủy gia hạn: Soạn HUY 6FB50K gửi 191\nHủy gói cước: Soạn HUYDATA 6FB50K gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6FB50K"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['12FB30']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['12FB30']:\nTên gói cước: 12FB30 chi tiết:\nƯu đãi\n12FB30: 360.000đ/360 ngày\nƯu đãi:\n- Truy cập Facebook và nhắn tin Messenger (tối đa 50GB/30 ngày).\n- Gói cước gia hạn sau 360 ngày.\nĐăng ký: Soạn 12FB30 gửi 191 hoặc bấm gọi *098*2016#\nHủy gia hạn: Soạn HUY 12FB30 gửi 191\nHủy gói: Soạn HUYDATA 12FB30 gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12FB30"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['12FB50K']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['12FB50K']:\nTên gói cước: 12FB50K chi tiết:\nƯu đãi\nGiá cước: 600.000đ/360 ngày\nƯu đãi:-Truy cập Facebook và nhắn tin Messenger (tối đa 50GB/30 ngày)\n- Gói cước gia hạn sau 360 ngày\nĐăng ký: Soạn 12FB50K gửi 191 hoặc bấm gọi *098*1296#\nHủy gia hạn: Soạn HUY 12FB50K gửi 191\nHủy gói cước: Soạn HUYDATA 12FB50K gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12FB50K"
+      }
+    ]
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói MP30GB có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước0đ/30 ngày Ưu đãi 30GB dùng trong 30 ngày Đăng ký"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước MP30GB là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước0đ/30 ngày Ưu đãi 30GB dùng trong 30 ngày Đăng ký"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói MP30GB - phần Đăng Ký là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soạn MP30GB gửi 191 Hủy gói cước Soạn HUYDATA MP30GB gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Đăng Ký của gói cước MP30GB là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soạn MP30GB gửi 191 Hủy gói cước Soạn HUYDATA MP30GB gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gói MP30GB?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói cước Soạn HUYDATA MP30GB gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để huỷ gói MP30GB?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói cước Soạn HUYDATA MP30GB gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói T30 có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 30000đ/30 ngày Ưu đãi Truy cập ứng dụng TikTok (tối đa 50GB)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước T30 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 30000đ/30 ngày Ưu đãi Truy cập ứng dụng TikTok (tối đa 50GB)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói T30 có chính sách gia hạn như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước gia hạn sau 30 ngày"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói T30 gia hạn khi nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước gia hạn sau 30 ngày"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký gói T30?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Soạn T30 gửi 191 hoặc bấm gọi *098*1009#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký gói T30?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Soạn T30 gửi 191 hoặc bấm gọi *098*1009#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gia hạn gói T30?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn HUY T30 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để gia hạn gói T30?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn HUY T30 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gói T30?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói Soạn HUYDATA T30 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để huỷ gói T30?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói Soạn HUYDATA T30 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói T50K có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 50000đ/30 ngày Ưu đãi Truy cập ứng dụng TikTok (tối đa 50GB)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước T50K là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 50000đ/30 ngày Ưu đãi Truy cập ứng dụng TikTok (tối đa 50GB)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói T50K có chính sách gia hạn như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước gia hạn sau 30 ngày"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói T50K gia hạn khi nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước gia hạn sau 30 ngày"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký gói T50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Soạn T50K gửi 191 hoặc bấm gọi *098*1299#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký gói T50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Soạn T50K gửi 191 hoặc bấm gọi *098*1299#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gia hạn gói T50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn HUY T50K gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để gia hạn gói T50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn HUY T50K gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gói T50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói cước Soạn HUYDATA T50K gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để huỷ gói T50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói cước Soạn HUYDATA T50K gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói FB50K có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 50000đ/30 ngày Ưu đãi Truy cập Facebook và nhắn tin Messenger (tối đa 50GB)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước FB50K là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 50000đ/30 ngày Ưu đãi Truy cập Facebook và nhắn tin Messenger (tối đa 50GB)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói FB50K có chính sách gia hạn như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước gia hạn sau 30 ngày"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói FB50K gia hạn khi nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước gia hạn sau 30 ngày"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký gói FB50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Soạn FB50K gửi 191 hoặc bấm gọi *098*1293#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký gói FB50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Soạn FB50K gửi 191 hoặc bấm gọi *098*1293#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gia hạn gói FB50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn HUY FB50K gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để gia hạn gói FB50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn HUY FB50K gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gói FB50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói cước Soạn HUYDATA FB50K gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để huỷ gói FB50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói cước Soạn HUYDATA FB50K gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói YT50K có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 50000đ/30 ngày Ưu đãi Truy cập ứng dụng YouTube (tối đa 50GB)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước YT50K là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi Giá cước 50000đ/30 ngày Ưu đãi Truy cập ứng dụng YouTube (tối đa 50GB)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói YT50K có chính sách gia hạn như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước gia hạn sau 30 ngày"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói YT50K gia hạn khi nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước gia hạn sau 30 ngày"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký gói YT50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Soạn YT50K gửi 191 hoặc bấm gọi *098*1303#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký gói YT50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký Soạn YT50K gửi 191 hoặc bấm gọi *098*1303#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gia hạn gói YT50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn HUY YT50K gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để gia hạn gói YT50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gia hạn Soạn HUY YT50K gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gói YT50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói cước Soạn HUYDATA YT50K gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để huỷ gói YT50K?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hủy gói cước Soạn HUYDATA YT50K gửi 191"
+      }
+    ]
+  }
+]

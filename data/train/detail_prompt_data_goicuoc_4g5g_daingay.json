@@ -1,0 +1,314 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 6M10_100M?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 6M10_100M:\nTên gói cước: 6M10_100M chi tiết:\nƯu đãi \n6M10_100M: 60.000đ/180 ngày \nƯu đãi dùng trong mỗi chu kỳ 30 ngày:\n- 100MB truy cập tất cả các hướng\n- 10SMS nội mạng\n- Gói cước gia hạn sau 180 ngày\nĐăng ký: Soạn 6M10_100M gửi 191\nHủy gia hạn: Soạn HUY gửi 191\nHủy gói: Soạn HUYDATA gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6M10_100M"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 6SD70?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 6SD70:\nTên gói cước: 6SD70 chi tiết:\nƯu đãi \nGiá cước: 420.000đ/180 ngày.\nƯu đãi: 180GB (1GB/ngày).\n- Gói cước gia hạn sau 180 ngày.\nĐăng ký: Soạn 6SD70 gửi 191.\nHủy gia hạn: Soạn HUY gửi 191.\nHủy gói cước: Soạn HUYDATA gửi 191. \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6SD70"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 6SD90?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 6SD90:\nTên gói cước: 6SD90 chi tiết:\nƯu đãi \nGiá cước: 540.000đ/180 ngày.\nƯu đãi: 270GB (1,5GB/ngày).\nGói cước gia hạn sau 180 ngày.\nĐăng ký: Soạn 6SD90 gửi 191 hoặc *098*8824#.\nHủy gia hạn: Soạn HUY gửi 191.\nHủy gói cước: Soạn HUYDATA gửi 191. \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6SD90"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 3T5G230B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 3T5G230B:\nTên gói cước: 3T5G230B chi tiết:\nƯu đãi \nGiá cước: 690.000đ/90 ngày\nƯu đãi :\n- 720GB (8GB/ngày)\n- 150 phút gọi ngoại mạng/30 ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard \n- Miễn phí 50GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 90 ngày\nĐăng ký: Soạn 3T5G230B gửi 191 hoặc bấm gọi *098*5104#\nHủy gia hạn: Soạn HUY gửi 191\nHủy gói cước: Soạn HUYDATA gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/3T5G230B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 12SD70?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 12SD70:\nTên gói cước: 12SD70 chi tiết:\nƯu đãi \nGiá cước: 840.000đ/360 ngày.\nƯu đãi: 360GB (1GB/ngày).\n- Gói cước gia hạn sau 360 ngày.\nĐăng ký: Soạn 12SD70 gửi 191.\nHủy gia hạn: Soạn HUY gửi 191.\nHủy gói cước: Soạn HUYDATA gửi 191. \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12SD70"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 3T5G280B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 3T5G280B:\nTên gói cước: 3T5G280B chi tiết:\nƯu đãi \nGiá cước: 840.000đ/90 ngày\nƯu đãi :\n- 900GB (10GB/ngày)\n- 200 phút gọi ngoại mạng/30 ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard \n- Miễn phí 70GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 90 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/3T5G280B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 6SD150?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 6SD150:\nTên gói cước: 6SD150 chi tiết:\nƯu đãi \nGiá cước: 900.000đ/180 ngày.\nƯu đãi: 540GB (3GB/ngày).\nGói cước gia hạn sau 180 ngày.\nĐăng ký: Soạn 6SD150 gửi 191 hoặc *098*8830#.\nHủy gia hạn: Soạn HUY gửi 191.\nHủy gói cước: Soạn HUYDATA gửi 191. \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6SD150"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 6T5G150?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 6T5G150:\nTên gói cước: 6T5G150 chi tiết:\nƯu đãi \nGiá cước: 900.000đ/180 ngày\nƯu đãi:\n- 6GB/ngày\n- Miễn phí xem TV360 gói Basic\n- Miễn phí 30GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 180 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6T5G150"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 90N?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 90N:\nTên gói cước: 90N chi tiết:\nƯu đãi \nGiá cước: 900.000đ/90 ngày\nƯu đãi sử dụng trong mỗi chu kỳ 30 ngày:\n- 150GB (5GB/ngày).\n- Miễn phí nhắn tin nội mạng.\n- Miễn phí 20 phút/cuộc gọi nội mạng, 150 phút gọi ngoại mạng.\n- Miễn phí xem truyền hình trên ứng dụng TV360\n- Gói cước gia hạn sau 90 ngày với giá 900.000đ\nĐăng ký: Bấm Đăng ký / Soạn 90N gửi 191 / Bấm gọi *098*977#\nHủy gia hạn: Soạn HUY gửi 191\nHủy gói: HUYDATA gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/90N"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 3T5G330B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 3T5G330B:\nTên gói cước: 3T5G330B chi tiết:\nƯu đãi \nGiá cước: 990.000đ/90 ngày\nƯu đãi :\n- 1.080GB (12GB/ngày)\n- 300 phút gọi ngoại mạng\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard \n- Miễn phí 100GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 90 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/3T5G330B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 12SD90?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 12SD90:\nTên gói cước: 12SD90 chi tiết:\nƯu đãi \nGiá cước: 1.080.000đ/360 ngày.\nƯu đãi: 540GB (1,5GB/ngày).\nGói cước gia hạn sau 360 ngày.\nĐăng ký: Soạn 12SD90 gửi 191 hoặc *098*8825#.\nHủy gia hạn: Soạn HUY gửi 191.\nHủy gói cước: Soạn HUYDATA gửi 191. \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12SD90"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 3T5G380B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 3T5G380B:\nTên gói cước: 3T5G380B chi tiết:\nƯu đãi \nGiá cước: 1.140.000đ/90 ngày\nƯu đãi :\n- 1.350GB (15GB/ngày)\n- 300 phút gọi ngoại mạng\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard \n- Miễn phí 150GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 90 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/3T5G380B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 6T5G230B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 6T5G230B:\nTên gói cước: 6T5G230B chi tiết:\nƯu đãi \nGiá cước: 1.380.000đ/180 ngày\nƯu đãi :\n- 1.440GB (8GB/ngày).\n- 150 phút gọi ngoại mạng/30 ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard \n- Miễn phí 50GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 180 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6T5G230B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 12SD120?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 12SD120:\nTên gói cước: 12SD120 chi tiết:\nƯu đãi \nGiá cước: 1.440.000đ/360 ngày.\nƯu đãi: 720GB (2GB/ngày).\n- Gói cước gia hạn sau 360 ngày.\nĐăng ký: Soạn 12SD120 gửi 191.\nHủy gia hạn: Soạn HUY gửi 191.\nHủy gói cước: Soạn HUYDATA gửi 191. \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12SD120"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 6T5G280B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 6T5G280B:\nTên gói cước: 6T5G280B chi tiết:\nƯu đãi \nGiá cước: 1.680.000đ/180 ngày\nƯu đãi :\n- 1.800GB (10GB/ngày).\n- 200 phút gọi ngoại mạng/30 ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard \n- Miễn phí 70GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 180 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6T5G280B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 180N?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 180N:\nTên gói cước: 180N chi tiết:\nƯu đãi \nGiá cước: 1.800.000đ/180 ngày.\nƯu đãi sử dụng trong mỗi chu kỳ 30 ngày:\n- 150GB (5GB/ngày).\n- Miễn phí nhắn tin nội mạng.\n- Miễn phí 20 phút/cuộc gọi nội mạng, 150 phút gọi ngoại mạng.\n- Miễn phí xem truyền hình trên ứng dụng TV360\n- Gói cước gia hạn sau 180 ngày với giá 1.800.000đ\nĐăng ký: Bấm Đăng ký / Soạn 180N gửi 191 / Bấm gọi *098*978#\nHủy gia hạn: Soạn HUY gửi 191\nHủy gói: HUYDATA gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/180N"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 12T5G150?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 12T5G150:\nTên gói cước: 12T5G150 chi tiết:\nƯu đãi \nGiá cước: 1.800.000đ/360 ngày\nƯu đãi:\n- 6GB/ngày\n- Miễn phí xem TV360 gói Basic\n- Miễn phí 30GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 360 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12T5G150"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 12SD150?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 12SD150:\nTên gói cước: 12SD150 chi tiết:\nƯu đãi \nGiá cước: 1.800.000đ/360 ngày.\nƯu đãi: 1.080GB (3GB/ngày).\nGói cước gia hạn sau 360 ngày.\nĐăng ký: Soạn 12SD150 gửi 191 hoặc *098*8831#.\nHủy gia hạn: Soạn HUY gửi 191.\nHủy gói cước: Soạn HUYDATA gửi 191. \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12SD150"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 6T5G330B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 6T5G330B:\nTên gói cước: 6T5G330B chi tiết:\nƯu đãi \nGiá cước: 1.980.000đ/180 ngày\nƯu đãi :\n- 2.160GB (12GB/ngày).\n- 300 phút gọi ngoại mạng/30 ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard \n- Miễn phí 100GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 180 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6T5G330B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 6T5G380B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 6T5G380B:\nTên gói cước: 6T5G380B chi tiết:\nƯu đãi \nGiá cước: 2.280.000đ/180 ngày \nƯu đãi:\n- 2.700GB (15GB/ngày)\n- 300 phút gọi ngoại mạng/30 ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard\n- Miễn phí 150GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 180 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6T5G380B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 12T5G230B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 12T5G230B:\nTên gói cước: 12T5G230B chi tiết:\nƯu đãi \nGiá cước: 2.760.000đ/360 ngày\nƯu đãi:\n- 2.880GB (8GB/ngày)\n- 150 phút gọi ngoại mạng/30ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard\n- Miễn phí 50GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 360 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12T5G230B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 6T5G480B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 6T5G480B:\nTên gói cước: 6T5G480B chi tiết:\nƯu đãi \nGiá cước: 2.880.000đ/180 ngày\nƯu đãi:\n- 3.600GB (20GB/ngày)\n- 300 phút gọi ngoại mạng/30 ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard\n- Miễn phí 200GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 180 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/6T5G480B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 12T5G280B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 12T5G280B:\nTên gói cước: 12T5G280B chi tiết:\nƯu đãi \nGiá cước: 3.360.000đ/360 ngày\nƯu đãi:\n- 3.600GB (10GB/ngày)\n- 200 phút gọi ngoại mạng/30ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard\n- Miễn phí 70GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 360 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12T5G280B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 12T5G330B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 12T5G330B:\nTên gói cước: 12T5G330B chi tiết:\nƯu đãi \nGiá cước: 3.960.000đ/360 ngày\nƯu đãi:\n- 4.320GB (12GB/ngày)\n- 300 phút gọi ngoại mạng/30ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard\n- Miễn phí 100GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 360 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12T5G330B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 12T5G380B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 12T5G380B:\nTên gói cước: 12T5G380B chi tiết:\nƯu đãi \nGiá cước: 4.560.000đ/360 ngày\nƯu đãi:\n- 5.400GB (15GB/ngày)\n- 300 phút gọi ngoại mạng/30 ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard\n- Miễn phí 150GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 360 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12T5G380B"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước 12T5G480B?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước 12T5G480B:\nTên gói cước: 12T5G480B chi tiết:\nƯu đãi \nGiá cước: 5.760.000đ/360 ngày \nƯu đãi:\n- 7.200GB (20GB/ngày)\n- 300 phút gọi ngoại mạng/30 ngày\n- Miễn phí 20 phút đầu tiên của tất cả các cuộc gọi nội mạng (tối đa 1.000 phút/30 ngày)\n- Miễn phí xem truyền hình TV360 gói Standard\n- Miễn phí 200GB lưu trữ dữ liệu trên Mybox\nGói cước gia hạn sau 360 ngày \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/12T5G480B"
+      }
+    ]
+  }
+]

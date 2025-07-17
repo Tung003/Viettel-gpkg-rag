@@ -1,0 +1,1610 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU1 có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi IRU1 25K/24 giờ có 1GB data roaming tốc độ cao sử dụng tại Campuchia, Lào (hết 1GB tốc độ cao, truy cập tốc độ thường)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước IRU1 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi IRU1 25K/24 giờ có 1GB data roaming tốc độ cao sử dụng tại Campuchia, Lào (hết 1GB tốc độ cao, truy cập tốc độ thường)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký gói IRU1?"
+      },
+      {
+        "role": "assistant",
+        "content": "Để đăng ký, soạn IRU1 gửi 191 hoặc bấm gọi *098*009#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký gói IRU1?"
+      },
+      {
+        "role": "assistant",
+        "content": "Để đăng ký, soạn IRU1 gửi 191 hoặc bấm gọi *098*009#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gói IRU1?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn HUY IRU1 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để huỷ gói IRU1?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn HUY IRU1 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU1 có phạm vi cung cấp ở các nước nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Campuchia (mạng Metfone), Lào (mạng Unitel)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU1 sử dụng được ở các nước nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Campuchia (mạng Metfone), Lào (mạng Unitel)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU1 có quy định sử dụng như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước hết thời hạn sử dụng, thuê bao sẽ bị chặn sử dụng dịch vụ Data, các dịch vụ thoại/SMS sử dụng được với giá thông thường. Muốn sử dụng tiếp Data với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc đăng ký lại Data roaming (bấm gọi *138*6*1#) để sử dụng với giá thông thường."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Quy định sử dụng gói cước IRU1 như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước hết thời hạn sử dụng, thuê bao sẽ bị chặn sử dụng dịch vụ Data, các dịch vụ thoại/SMS sử dụng được với giá thông thường. Muốn sử dụng tiếp Data với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc đăng ký lại Data roaming (bấm gọi *138*6*1#) để sử dụng với giá thông thường."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tại phạm vi gói cước IRU1 thuê bao sử dụng được data tại các mạng nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "thuê bao chỉ sử dụng được data tại các mạng thuộc gói, không sử dụng được data tại các mạng khác"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Trong phạm vi gói cước IRU1 có sử dụng được data tại các mạng khác không?"
+      },
+      {
+        "role": "assistant",
+        "content": "thuê bao chỉ sử dụng được data tại các mạng thuộc gói, không sử dụng được data tại các mạng khác"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tại các nước ngoài phạm vi gói cước IRU1 thì tính phí ra sao?"
+      },
+      {
+        "role": "assistant",
+        "content": "được sử dụng data với giá thông thường .Cộng dồn lưu lượng- Thuê bao được phép đăng ký lại gói cước nhiều lần trong thời hạn của gói. Lưu lượng còn lại (nếu còn) của gói sẽ được cộng dồn, thời hạn sử dụng mới sẽ tính theo lần đăng ký gần nhất."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói cước IRU1 tính phí ra sao tại các nước ngoài phạm vi ?"
+      },
+      {
+        "role": "assistant",
+        "content": "được sử dụng data với giá thông thường .Cộng dồn lưu lượng- Thuê bao được phép đăng ký lại gói cước nhiều lần trong thời hạn của gói. Lưu lượng còn lại (nếu còn) của gói sẽ được cộng dồn, thời hạn sử dụng mới sẽ tính theo lần đăng ký gần nhất."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Có thể đăng ký đồng thời gói cước IRU1 có cùng phạm vi sử dụng được không?"
+      },
+      {
+        "role": "assistant",
+        "content": "TB không thể đăng ký đồng thời các gói cước có cùng phạm vi áp dụng. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại.- Gói cước không tự động gia hạn"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Với gói cước IRU1 nếu muốn chuyển sang gói cước khác cùng phạm vi được không?"
+      },
+      {
+        "role": "assistant",
+        "content": "TB không thể đăng ký đồng thời các gói cước có cùng phạm vi áp dụng. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại.- Gói cước không tự động gia hạn"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DRU1 có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi DRU1: 50.000đ/24 giờ, không giới hạn lưu lượng data roaming (có 1GB tốc độ cao) khi chuyển vùng quốc tế"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước DRU1 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi DRU1: 50.000đ/24 giờ, không giới hạn lưu lượng data roaming (có 1GB tốc độ cao) khi chuyển vùng quốc tế"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký gói DRU1?"
+      },
+      {
+        "role": "assistant",
+        "content": "oạn DRU1 gửi 191 hoặc bấm gọi *098*0121#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký gói DRU1?"
+      },
+      {
+        "role": "assistant",
+        "content": "oạn DRU1 gửi 191 hoặc bấm gọi *098*0121#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gói DRU1?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soạn HUY DRU1 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để huỷ gói DRU1?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soạn HUY DRU1 gửi 191"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DRU1 có phạm vi cung cấp ở các nước nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước áp dụng tại 75 quốc gia/vùng lãnh thổ (chọn đúng mạng trong danh sách để sử dụng ưu đãi)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DRU1 sử dụng được ở các nước nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước áp dụng tại 75 quốc gia/vùng lãnh thổ (chọn đúng mạng trong danh sách để sử dụng ưu đãi)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DRU1 có quy định sử dụng như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước hết thời hạn sử dụng, thuê bao sẽ bị chặn sử dụng dịch vụ Data, các dịch vụ thoại/SMS sử dụng được với giá thông thường. Muốn sử dụng tiếp Data với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc đăng ký lại Data roaming (bấm gọi *138*6*1#) để sử dụng với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Quy định sử dụng gói cước DRU1 như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước hết thời hạn sử dụng, thuê bao sẽ bị chặn sử dụng dịch vụ Data, các dịch vụ thoại/SMS sử dụng được với giá thông thường. Muốn sử dụng tiếp Data với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc đăng ký lại Data roaming (bấm gọi *138*6*1#) để sử dụng với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tại phạm vi gói cước DRU1 thuê bao sử dụng được data tại các mạng nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "thuê bao chỉ sử dụng được data tại các mạng thuộc gói, không sử dụng được data tại các mạng khác"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Trong phạm vi gói cước DRU1 có sử dụng được data tại các mạng khác không?"
+      },
+      {
+        "role": "assistant",
+        "content": "thuê bao chỉ sử dụng được data tại các mạng thuộc gói, không sử dụng được data tại các mạng khác"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tại các nước ngoài phạm vi gói cước DRU1 thì tính phí ra sao?"
+      },
+      {
+        "role": "assistant",
+        "content": "được sử dụng data với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói cước DRU1 tính phí ra sao tại các nước ngoài phạm vi ?"
+      },
+      {
+        "role": "assistant",
+        "content": "được sử dụng data với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DRU1 - phần Cộng dồn lưu lượng là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thuê bao được phép đăng ký lại gói cước nhiều lần trong thời hạn của gói.- Lưu lượng còn lại (nếu còn) của gói sẽ được cộng dồn, thời hạn sử dụng mới sẽ tính theo lần đăng ký gần nhất."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cộng dồn lưu lượng của gói cước DRU1 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thuê bao được phép đăng ký lại gói cước nhiều lần trong thời hạn của gói.- Lưu lượng còn lại (nếu còn) của gói sẽ được cộng dồn, thời hạn sử dụng mới sẽ tính theo lần đăng ký gần nhất."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Có thể đăng ký đồng thời gói cước DRU1 có cùng phạm vi sử dụng được không?"
+      },
+      {
+        "role": "assistant",
+        "content": "B không thể đăng ký đồng thời các gói cước có cùng phạm vi áp dụng. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Với gói cước DRU1 nếu muốn chuyển sang gói cước khác cùng phạm vi được không?"
+      },
+      {
+        "role": "assistant",
+        "content": "B không thể đăng ký đồng thời các gói cước có cùng phạm vi áp dụng. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DRU1 có chính sách gia hạn như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước không tự động gia hạn."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DRU1 gia hạn khi nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước không tự động gia hạn."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU3 có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi IRU3: 75.000đ/3 ngày có 3GB tốc độ cao (1GB/ngày) khi chuyển vùng quốc tế. Hết 1GB tốc độ cao, truy cập tốc độ thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước IRU3 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi IRU3: 75.000đ/3 ngày có 3GB tốc độ cao (1GB/ngày) khi chuyển vùng quốc tế. Hết 1GB tốc độ cao, truy cập tốc độ thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU3 - phần Mua thêm là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Để mua thêm 1GB tốc độ cao trong ngày, soạn IRT gửi 191 hoặc bấm gọi *098*0130# (phí đăng ký 25.000đ/lần)."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Mua thêm của gói cước IRU3 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Để mua thêm 1GB tốc độ cao trong ngày, soạn IRT gửi 191 hoặc bấm gọi *098*0130# (phí đăng ký 25.000đ/lần)."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU3 - phần Hết thời hạn gói là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hết thời hạn gói, thuê bao ngừng truy cập Data Roaming. Để tiếp tục sử dụng DV Data Roaming sau khi gói hết hạn, thuê bao đăng ký lại gói cước hoặc đăng ký DV Data Roaming với giá thông thường (soạn DATA gửi 138 hoặc bấm gọi *138*6*1#)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Hết thời hạn gói của gói cước IRU3 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hết thời hạn gói, thuê bao ngừng truy cập Data Roaming. Để tiếp tục sử dụng DV Data Roaming sau khi gói hết hạn, thuê bao đăng ký lại gói cước hoặc đăng ký DV Data Roaming với giá thông thường (soạn DATA gửi 138 hoặc bấm gọi *138*6*1#)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký gói IRU3?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký: soạn IRU3 gửi 191, hoặc bấm gọi *098*0125#."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký gói IRU3?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng ký: soạn IRU3 gửi 191, hoặc bấm gọi *098*0125#."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để huỷ gói IRU3?"
+      },
+      {
+        "role": "assistant",
+        "content": "Để hủy gói, soạn HUY IRU3 gửi 191."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để huỷ gói IRU3?"
+      },
+      {
+        "role": "assistant",
+        "content": "Để hủy gói, soạn HUY IRU3 gửi 191."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU3 có phạm vi cung cấp ở các nước nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Campuchia (mạng Metfone), Lào (mạng Unitel)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU3 sử dụng được ở các nước nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Campuchia (mạng Metfone), Lào (mạng Unitel)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU3 có quy định sử dụng như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước hết thời hạn sử dụng, thuê bao sẽ không sử dụng được DV Data Roaming, các dịch vụ thoại/SMS sử dụng được với giá thông thường. Muốn sử dụng tiếp Data với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc đăng ký lại Data roaming (bấm gọi *138*6*1#) để sử dụng với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Quy định sử dụng gói cước IRU3 như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước hết thời hạn sử dụng, thuê bao sẽ không sử dụng được DV Data Roaming, các dịch vụ thoại/SMS sử dụng được với giá thông thường. Muốn sử dụng tiếp Data với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc đăng ký lại Data roaming (bấm gọi *138*6*1#) để sử dụng với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tại phạm vi gói cước IRU3 thuê bao sử dụng được data tại các mạng nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "thuê bao chỉ sử dụng được data tại các mạng thuộc gói, không sử dụng được data tại các mạng khác"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Trong phạm vi gói cước IRU3 có sử dụng được data tại các mạng khác không?"
+      },
+      {
+        "role": "assistant",
+        "content": "thuê bao chỉ sử dụng được data tại các mạng thuộc gói, không sử dụng được data tại các mạng khác"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tại các nước ngoài phạm vi gói cước IRU3 thì tính phí ra sao?"
+      },
+      {
+        "role": "assistant",
+        "content": "được sử dụng data với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói cước IRU3 tính phí ra sao tại các nước ngoài phạm vi ?"
+      },
+      {
+        "role": "assistant",
+        "content": "được sử dụng data với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU3 - phần Cộng dồn lưu lượng là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thuê bao không được đăng ký lại gói cước nhiều lần trong thời hạn của gói."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cộng dồn lưu lượng của gói cước IRU3 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thuê bao không được đăng ký lại gói cước nhiều lần trong thời hạn của gói."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU3 có chính sách gia hạn như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước không tự động gia hạn."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói IRU3 gia hạn khi nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước không tự động gia hạn."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Có thể đăng ký đồng thời gói cước IRU3 có cùng phạm vi sử dụng được không?"
+      },
+      {
+        "role": "assistant",
+        "content": "TB không thể đăng ký đồng thời các gói cước có cùng phạm vi áp dụng. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Với gói cước IRU3 nếu muốn chuyển sang gói cước khác cùng phạm vi được không?"
+      },
+      {
+        "role": "assistant",
+        "content": "TB không thể đăng ký đồng thời các gói cước có cùng phạm vi áp dụng. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói HQ5 có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi HQ5 99000đ/5 ngày có 8GB Data khi chuyển vùng quốc tế tại Hàn Quốc"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước HQ5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi HQ5 99000đ/5 ngày có 8GB Data khi chuyển vùng quốc tế tại Hàn Quốc"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký áp dụng ngay gói HQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng Ký Áp dụng ngay soạn HQ5 gửi 191 hoặc bấm gọi *098*605#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký áp dụng ngay gói HQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng Ký Áp dụng ngay soạn HQ5 gửi 191 hoặc bấm gọi *098*605#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký hẹn ngày gói HQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn HN HQ5 [NGAYHIEULUC] gửi 191 (ví dụ HN HQ5 3005 để hẹn hiệu lực từ 30/05) hoặc bấm gọi *098*605*2#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký hẹn ngày gói HQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn HN HQ5 [NGAYHIEULUC] gửi 191 (ví dụ HN HQ5 3005 để hẹn hiệu lực từ 30/05) hoặc bấm gọi *098*605*2#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đổi ngày hiệu lực gói HQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn TD HQ5 [NGAYHIEULUCMOI] gửi 191 hoặc bấm gọi *098*605*3#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đđổi ngày hiệu lực gói HQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn TD HQ5 [NGAYHIEULUCMOI] gửi 191 hoặc bấm gọi *098*605*3#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói HQ5 - phần Hủy dịch vụ là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soạn HUY HQ5 gửi 191."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Hủy dịch vụ của gói cước HQ5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soạn HUY HQ5 gửi 191."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói HQ5 có phạm vi cung cấp ở các nước nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Áp dụng tại Hàn Quốc (mạng KT, LG Uplus)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói HQ5 sử dụng được ở các nước nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Áp dụng tại Hàn Quốc (mạng KT, LG Uplus)"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói HQ5 - phần Tên hiển thị trên thiết bị là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mạng KT: KT- Mạng LG Uplus: KOR LG U+/KOR LG Uplus/45006"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tên hiển thị trên thiết bị của gói cước HQ5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mạng KT: KT- Mạng LG Uplus: KOR LG U+/KOR LG Uplus/45006"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói HQ5 có quy định sử dụng như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước hết lưu lượng hoặc gói cước hết thời hạn, dịch vụ thoại và SMS sẽ được sử dụng với giá cước thông thường, tạm ngừng truy cập Data Roaming.- Muốn sử dụng tiếp với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc gói khác phù hợp. Để tiếp tục sử dụng Data Roaming với giá thông thường, bấm gọi *138*6*1#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Quy định sử dụng gói cước HQ5 như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước hết lưu lượng hoặc gói cước hết thời hạn, dịch vụ thoại và SMS sẽ được sử dụng với giá cước thông thường, tạm ngừng truy cập Data Roaming.- Muốn sử dụng tiếp với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc gói khác phù hợp. Để tiếp tục sử dụng Data Roaming với giá thông thường, bấm gọi *138*6*1#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tại phạm vi gói cước HQ5 thuê bao sử dụng được data tại các mạng nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "thuê bao chỉ sử dụng được các hướng dịch vụ tại mạng thuộc gói, không sử dụng được dịch vụ tại các mạng khác"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Trong phạm vi gói cước HQ5 có sử dụng được data tại các mạng khác không?"
+      },
+      {
+        "role": "assistant",
+        "content": "thuê bao chỉ sử dụng được các hướng dịch vụ tại mạng thuộc gói, không sử dụng được dịch vụ tại các mạng khác"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tại các nước ngoài phạm vi gói cước HQ5 thì tính phí ra sao?"
+      },
+      {
+        "role": "assistant",
+        "content": "được sử dụng dịch vụ với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói cước HQ5 tính phí ra sao tại các nước ngoài phạm vi ?"
+      },
+      {
+        "role": "assistant",
+        "content": "được sử dụng dịch vụ với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói HQ5 - phần Cộng dồn lưu lượng là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước có hiệu lực sử dụng, thuê bao được phép đăng ký lại gói cước nhiều lần. Lưu lượng còn lại (nếu còn) của gói sẽ được cộng dồn, thời hạn sử dụng mới sẽ tính theo lần đăng ký gần nhất."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cộng dồn lưu lượng của gói cước HQ5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước có hiệu lực sử dụng, thuê bao được phép đăng ký lại gói cước nhiều lần. Lưu lượng còn lại (nếu còn) của gói sẽ được cộng dồn, thời hạn sử dụng mới sẽ tính theo lần đăng ký gần nhất."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói HQ5 - phần Bảo lưu là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Không bảo lưu lưu lượng còn lại nếu gói cước hết hạn sử dụng"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Bảo lưu của gói cước HQ5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Không bảo lưu lưu lượng còn lại nếu gói cước hết hạn sử dụng"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Có thể đăng ký đồng thời gói cước HQ5 có cùng phạm vi sử dụng được không?"
+      },
+      {
+        "role": "assistant",
+        "content": "TB không thể đăng ký đồng thời các gói cước: có cùng phạm vi áp dụng hoặc chỉ khác trạng thái đang giữ chỗ/ hiệu lực ngay. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Với gói cước HQ5 nếu muốn chuyển sang gói cước khác cùng phạm vi được không?"
+      },
+      {
+        "role": "assistant",
+        "content": "TB không thể đăng ký đồng thời các gói cước: có cùng phạm vi áp dụng hoặc chỉ khác trạng thái đang giữ chỗ/ hiệu lực ngay. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói HQ5 có chính sách gia hạn như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước không tự động gia hạn."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói HQ5 gia hạn khi nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước không tự động gia hạn."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói TQ5 có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi TQ5 99000đ/5 ngày có 2GB Data khi chuyển vùng quốc tế tại Trung Quốc"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước TQ5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi TQ5 99000đ/5 ngày có 2GB Data khi chuyển vùng quốc tế tại Trung Quốc"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký áp dụng ngay gói TQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng Ký Áp dụng ngay soạn TQ5 gửi 191 hoặc bấm gọi *098*1062#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký áp dụng ngay gói TQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng Ký Áp dụng ngay soạn TQ5 gửi 191 hoặc bấm gọi *098*1062#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký hẹn ngày gói TQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn HN TQ5 [NGAYHIEULUC] gửi 191 (ví dụ HN TQ5 3005 để hẹn hiệu lực từ 30/05) hoặc bấm gọi *098*1062*2#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký hẹn ngày gói TQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn HN TQ5 [NGAYHIEULUC] gửi 191 (ví dụ HN TQ5 3005 để hẹn hiệu lực từ 30/05) hoặc bấm gọi *098*1062*2#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đổi ngày hiệu lực gói TQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn TD TQ5 [NGAYHIEULUCMOI] gửi 191 hoặc bấm gọi *098*1062*3#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đđổi ngày hiệu lực gói TQ5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn TD TQ5 [NGAYHIEULUCMOI] gửi 191 hoặc bấm gọi *098*1062*3#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói TQ5 - phần Hủy gói cước là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soạn HUY TQ5 gửi 191."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Hủy gói cước của gói cước TQ5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soạn HUY TQ5 gửi 191."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói TQ5 có phạm vi cung cấp ở các nước nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Áp dụng tại Trung Quốc (mạng China Mobile, China Unicom"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói TQ5 sử dụng được ở các nước nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Áp dụng tại Trung Quốc (mạng China Mobile, China Unicom"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói TQ5 - phần Tên hiển thị trên thiết bị là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mạng China Mobile: CMCC/ China Mobile\n- Mạng China Unicom: China Unicom/ CHN CUGSM/ CUGSM/ 46001/ UNICOM"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tên hiển thị trên thiết bị của gói cước TQ5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mạng China Mobile: CMCC/ China Mobile\n- Mạng China Unicom: China Unicom/ CHN CUGSM/ CUGSM/ 46001/ UNICOM"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói TQ5 có quy định sử dụng như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước hết lưu lượng hoặc gói cước hết thời hạn, dịch vụ thoại và SMS sẽ được sử dụng với giá cước thông thường, tạm ngừng truy cập Data Roaming.- Muốn sử dụng tiếp với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc gói khác phù hợp. Để tiếp tục sử dụng Data Roaming với giá thông thường, bấm gọi *138*6*1#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Quy định sử dụng gói cước TQ5 như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước hết lưu lượng hoặc gói cước hết thời hạn, dịch vụ thoại và SMS sẽ được sử dụng với giá cước thông thường, tạm ngừng truy cập Data Roaming.- Muốn sử dụng tiếp với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc gói khác phù hợp. Để tiếp tục sử dụng Data Roaming với giá thông thường, bấm gọi *138*6*1#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tại phạm vi gói cước TQ5 thuê bao sử dụng được data tại các mạng nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "thuê bao chỉ sử dụng được các hướng dịch vụ tại mạng thuộc gói, không sử dụng được dịch vụ tại các mạng khác"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Trong phạm vi gói cước TQ5 có sử dụng được data tại các mạng khác không?"
+      },
+      {
+        "role": "assistant",
+        "content": "thuê bao chỉ sử dụng được các hướng dịch vụ tại mạng thuộc gói, không sử dụng được dịch vụ tại các mạng khác"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tại các nước ngoài phạm vi gói cước TQ5 thì tính phí ra sao?"
+      },
+      {
+        "role": "assistant",
+        "content": "được sử dụng dịch vụ với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói cước TQ5 tính phí ra sao tại các nước ngoài phạm vi ?"
+      },
+      {
+        "role": "assistant",
+        "content": "được sử dụng dịch vụ với giá thông thường"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói TQ5 - phần Cộng dồn lưu lượng là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước có hiệu lực sử dụng, thuê bao được phép đăng ký lại gói cước nhiều lần. Lưu lượng còn lại (nếu còn) của gói sẽ được cộng dồn, thời hạn sử dụng mới sẽ tính theo lần đăng ký gần nhất"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cộng dồn lưu lượng của gói cước TQ5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Khi gói cước có hiệu lực sử dụng, thuê bao được phép đăng ký lại gói cước nhiều lần. Lưu lượng còn lại (nếu còn) của gói sẽ được cộng dồn, thời hạn sử dụng mới sẽ tính theo lần đăng ký gần nhất"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói TQ5 có chính sách gia hạn như thế nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước không tự động gia hạn."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói TQ5 gia hạn khi nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gói cước không tự động gia hạn."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói TQ5 - phần Quy định bảo lưu là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Không bảo lưu lưu lượng còn lại nếu gói cước hết hạn sử dụng"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Quy định bảo lưu của gói cước TQ5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Không bảo lưu lưu lượng còn lại nếu gói cước hết hạn sử dụng"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Có thể đăng ký đồng thời gói cước TQ5 có cùng phạm vi sử dụng được không?"
+      },
+      {
+        "role": "assistant",
+        "content": "TB không thể đăng ký đồng thời các gói cước: có cùng phạm vi áp dụng hoặc chỉ khác trạng thái đang giữ chỗ/ hiệu lực ngay. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Với gói cước TQ5 nếu muốn chuyển sang gói cước khác cùng phạm vi được không?"
+      },
+      {
+        "role": "assistant",
+        "content": "TB không thể đăng ký đồng thời các gói cước: có cùng phạm vi áp dụng hoặc chỉ khác trạng thái đang giữ chỗ/ hiệu lực ngay. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói ASEAN5 có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi ASEAN5 99000d/5 ngày có 1GB Data Roaming tại các nước ASEAN"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước ASEAN5 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi ASEAN5 99000d/5 ngày có 1GB Data Roaming tại các nước ASEAN"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký áp dụng ngay gói ASEAN5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng Ký Áp dụng ngay soạn ASEAN5 gửi 191 hoặc bấm gọi *098*0104# Hẹn ngày hiệu lực"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký áp dụng ngay gói ASEAN5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng Ký Áp dụng ngay soạn ASEAN5 gửi 191 hoặc bấm gọi *098*0104# Hẹn ngày hiệu lực"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký hẹn ngày gói ASEAN5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn HN ASEAN5 [NGAYHIEULUC] gửi 191 (ví dụ HN ASEAN5 3005 để hẹn hiệu lực từ 30/05) hoặc bấm gọi *098*0104*2# Thay đổi ngày hiệu lực"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký hẹn ngày gói ASEAN5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn HN ASEAN5 [NGAYHIEULUC] gửi 191 (ví dụ HN ASEAN5 3005 để hẹn hiệu lực từ 30/05) hoặc bấm gọi *098*0104*2# Thay đổi ngày hiệu lực"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đổi ngày hiệu lực gói ASEAN5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn TD ASEAN5 [NGAYHIEULUCMOI] gửi 191 hoặc bấm gọi *098*0104*3#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đđổi ngày hiệu lực gói ASEAN5?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn TD ASEAN5 [NGAYHIEULUCMOI] gửi 191 hoặc bấm gọi *098*0104*3#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DR3 có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi DR3 130000đ/3 ngày có 1GB Data khi chuyển vùng quốc tế"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước DR3 là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi DR3 130000đ/3 ngày có 1GB Data khi chuyển vùng quốc tế"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký áp dụng ngay gói DR3?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng Ký Áp dụng ngay soạn DR3 gửi 191 hoặc bấm gọi *098*0108# Hẹn ngày hiệu lực"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký áp dụng ngay gói DR3?"
+      },
+      {
+        "role": "assistant",
+        "content": "Đăng Ký Áp dụng ngay soạn DR3 gửi 191 hoặc bấm gọi *098*0108# Hẹn ngày hiệu lực"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đăng ký hẹn ngày gói DR3?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn HN DR3 [NGAYHIEULUC] gửi 191 (ví dụ HN DR3 3005 để hẹn hiệu lực từ 30/05) hoặc bấm gọi *098*0108*2# Thay đổi ngày hiệu lực"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đăng ký hẹn ngày gói DR3?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn HN DR3 [NGAYHIEULUC] gửi 191 (ví dụ HN DR3 3005 để hẹn hiệu lực từ 30/05) hoặc bấm gọi *098*0108*2# Thay đổi ngày hiệu lực"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Làm sao để đổi ngày hiệu lực gói DR3?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn TD DR3 [NGAYHIEULUCMOI] gửi 191 hoặc bấm gọi *098*0108*3#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Cú pháp để đđổi ngày hiệu lực gói DR3?"
+      },
+      {
+        "role": "assistant",
+        "content": "soạn TD DR3 [NGAYHIEULUCMOI] gửi 191 hoặc bấm gọi *098*0108*3#"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Gói DR3S có ưu đãi gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi DR3S 130000đ/3 ngày có 3GB Data Roaming"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Ưu đãi của gói cước DR3S là gì?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ưu đãi DR3S 130000đ/3 ngày có 3GB Data Roaming"
+      }
+    ]
+  }
+]

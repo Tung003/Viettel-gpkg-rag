@@ -1,0 +1,62 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['MP30GB']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['MP30GB']:\nTên gói cước: MP30GB chi tiết:\nƯu đãi\nGiá cước: 0đ/30 ngày.\nƯu đãi: 30GB dùng trong 30 ngày.\nĐăng ký: Soạn MP30GB gửi 191.\nHủy gói cước: Soạn HUYDATA MP30GB gửi 191. \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/MP30GB"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['T30']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['T30']:\nTên gói cước: T30 chi tiết:\nƯu đãi\nGiá cước: 30.000đ/30 ngày\nƯu đãi:\n- Truy cập ứng dụng TikTok (tối đa 50GB)\nGói cước gia hạn sau 30 ngày\nĐăng ký: Soạn T30 gửi 191 hoặc bấm gọi *098*1009#\nHủy gia hạn: Soạn HUY T30 gửi 191\nHủy gói: Soạn HUYDATA T30 gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/T30"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['T50K']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['T50K']:\nTên gói cước: T50K chi tiết:\nƯu đãi\nGiá cước: 50.000đ/30 ngày\nƯu đãi :\n- Truy cập ứng dụng TikTok (tối đa 50GB)\nGói cước gia hạn sau 30 ngày\nĐăng ký: Soạn T50K gửi 191 hoặc bấm gọi *098*1299#\nHủy gia hạn: Soạn HUY T50K gửi 191\nHủy gói cước: Soạn HUYDATA T50K gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/T50K"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['FB50K']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['FB50K']:\nTên gói cước: FB50K chi tiết:\nƯu đãi\nGiá cước: 50.000đ/30 ngày\nƯu đãi:\n- Truy cập Facebook và nhắn tin Messenger (tối đa 50GB)\n- Gói cước gia hạn sau 30 ngày\nĐăng ký: Soạn FB50K gửi 191 hoặc bấm gọi *098*1293#\nHủy gia hạn: Soạn HUY FB50K gửi 191\nHủy gói cước: Soạn HUYDATA FB50K gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/FB50K"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['YT50K']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['YT50K']:\nTên gói cước: YT50K chi tiết:\nƯu đãi\nGiá cước: 50.000đ/30 ngày\nƯu đãi :\n- Truy cập ứng dụng YouTube (tối đa 50GB)\nGói cước gia hạn sau 30 ngày\nĐăng ký: Soạn YT50K gửi 191 hoặc bấm gọi *098*1303#\nHủy gia hạn: Soạn HUY YT50K gửi 191\nHủy gói cước: Soạn HUYDATA YT50K gửi 191 \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/goi-data/YT50K"
+      }
+    ]
+  }
+]

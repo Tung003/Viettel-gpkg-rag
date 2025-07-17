@@ -1,0 +1,38 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['R30S']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['R30S']:\nTên gói: R30S chi tiết:\nƯu đãi\nR30S: 50.000đ/30 ngày có 15 tin nhắn và 20MB data khi chuyển vùng quốc tế. Các dịch vụ khác được sử dụng và tính cước theo bảng giá cước thông thường.\nSau khi dùng hết tin nhắn, thuê bao được tiếp tục gửi tin nhắn với giá cước thông thường. Sau khi dùng hết data, thuê bao ngừng truy cập data roaming.\nGói cước tự động gia hạn sau 30 ngày (tài khoản gốc tối thiểu 50.000đ).\nĐăng Ký\nĐăng ký: soạn R30S gửi 191 hoặc bấm gọi *098*607#\nHủy dịch vụ\nHủy gia hạn: soạn HUY R30S gửi 191.\nHủy gói: soạn HUYDATA R30S gửi 191\nPhạm vi cung cấp\nToàn bộ quốc gia/vùng lãnh thổ đã mở DV Roaming\nQuy định sử dụng\nKhi sử dụng hết lưu lượng SMS miễn phí, thuê bao sẽ được tiếp tục sử dụng SMS theo giá cước thông thường. Khi sử dụng hết lưu lượng data, thuê bao sẽ ngừng truy cập data roaming.\nSử dụng\nKhi sử dụng hết lưu lượng SMS miễn phí, thuê bao sẽ được tiếp tục sử dụng SMS theo giá cước thông thường. Khi sử dụng hết lưu lượng data, thuê bao sẽ ngừng truy cập data roaming.\nThuê bao sử dụng các DV khác sẽ được tính theo bảng giá cước thông thường\nCộng dồn lưu lượng\nThuê bao được phép đăng ký lại gói cước nhiều lần trong thời hạn của gói.\nQuy định khác\nGói cước R30S được tự động gia hạn\nXem thêm \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/chi-tiet-goi-cuoc/roaming/R30S"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['CR30']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['CR30']:\nTên gói: CR30 chi tiết:\nƯu đãi\nCR30: 450.000đ có 5GB, 50 SMS, 100 phút gọi đi (gọi trong nước Roaming, gọi về Việt Nam) sử dụng trong 30 ngày\nĐăng Ký\n- Áp dụng ngay: soạn CR30 gửi 191 hoặc bấm gọi *098*0103#\n- Hẹn ngày hiệu lực: soạn HN CR30 [NGAYHIEULUC] gửi 191 (ví dụ HN CR30 3005 để hẹn hiệu lực từ 30/05) hoặc bấm gọi *098*0103*2#\nThay đổi ngày hiệu lực: soạn TD CR30 [NGAYHIEULUCMOI] gửi 191 hoặc bấm gọi *098*0103*3#\nHủy dịch vụ\nSoạn HUY CR30 gửi 191\nPhạm vi cung cấp\nÁp dụng tại Campuchia (Metfone), Lào (Unitel). Tên hiển thị trên thiết bị: \n- Mạng Metfone (Metfone/ KHM08/ 456 08)\n- Mạng Unitel (UNITEL/ 45703/ LATMOBILE)\nQuy định sử dụng\n- Khi từng hướng dịch vụ của gói cước hết lưu lượng hoặc gói cước hết thời hạn, dịch vụ thoại và SMS sẽ được sử dụng với giá cước thông thường, tạm ngừng truy cập Data Roaming.\n- Muốn sử dụng tiếp với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc gói khác phù hợp. Để tiếp tục sử dụng Data Roaming với giá thông thường, bấm gọi *138*6*1#\nSử dụng\n- Tại phạm vi gói: thuê bao chỉ sử dụng được các hướng dịch vụ tại mạng thuộc gói, không sử dụng được dịch vụ tại các mạng khác\n- Tại các nước khác: được sử dụng dịch vụ với giá thông thường\nCộng dồn lưu lượng\n- Khi gói cước có hiệu lực sử dụng, thuê bao được phép đăng ký lại gói cước nhiều lần. Lưu lượng còn lại (nếu còn) của gói sẽ được cộng dồn, thời hạn sử dụng mới sẽ tính theo lần đăng ký gần nhất.\n- Không bảo lưu lưu lượng còn lại nếu gói cước hết hạn sử dụng.\nQuy định khác\n- TB không thể đăng ký đồng thời các gói cước: có cùng phạm vi áp dụng hoặc chỉ khác trạng thái đang giữ chỗ/ hiệu lực ngay. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại.\n- Gói cước không tự động gia hạn.\nXem thêm \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/chi-tiet-goi-cuoc/roaming/CR30"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Tôi muốn biết thông tin về gói cước ['DR30']?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thông tin của gói cước ['DR30']:\nTên gói: DR30 chi tiết:\nƯu đãi\nDR30: 1.100.000đ/30 ngày/10GB Data khi chuyển vùng quốc tế \nĐăng ký áp dụng ngay: soạn DR30 gửi 191 hoặc bấm gọi *098*0111#. \nĐăng ký hẹn ngày: soạn HN DR30 [NGAYHIEULUC] gửi 191 (ví dụ HN DR30 3005 để hẹn hiệu lực từ 30/05) hoặc bấm gọi *098*0111*2#. \nThay đổi ngày hiệu lực: soạn TD DR30 [NGAYHIEULUCMOI] gửi 191 hoặc bấm gọi *098*0111*3#\nHủy gói cước: Soạn HUY DR30 gửi 191\nPhạm vi cung cấp\nGói cước áp dụng tại 155 quốc gia/vùng lãnh thổ (chọn đúng mạng trong danh sách để sử dụng ưu đãi)\nChi tiết mạng hỗ trợ\nTại đây.\nQuy định sử dụng\nKhi gói cước hết lưu lượng hoặc hết thời gian sử dụng, thuê bao sẽ bị chặn sử dụng dịch vụ Data, các dịch vụ thoại/SMS sử dụng được với giá thông thường. Muốn sử dụng tiếp Data với giá ưu đãi, thuê bao đăng ký lại gói cước hoặc đăng ký lại Data roaming (bấm gọi *138*6*1#) để sử dụng với giá thông thường.\nSử dụng\n- Tại phạm vi gói: thuê bao chỉ sử dụng được data tại các mạng thuộc gói, không sử dụng được data tại các mạng khác\n- Tại các nước khác: được sử dụng data với giá thông thường\nCộng dồn lưu lượng\n- Khi gói cước có hiệu lực sử dụng, thuê bao được phép đăng ký lại gói cước nhiều lần.\n- Lưu lượng còn lại (nếu còn) của gói sẽ được cộng dồn, thời hạn sử dụng mới sẽ tính theo lần đăng ký gần nhất.\nQuy định khác\n- TB không thể đăng ký đồng thời các gói cước: có cùng phạm vi áp dụng hoặc chỉ khác trạng thái đang giữ chỗ/ hiệu lực ngay. Nếu muốn chuyển sang gói cước khác cùng phạm vi, thuê bao cần hủy gói hiện tại.\n- Gói cước không tự động gia hạn.\nXem thêm \nNếu cần chi tiết hơn bạn có thể vào trang web chính thức của Viettel biết thêm thông tin :https://viettel.vn/vx/di-dong/chi-tiet-goi-cuoc/roaming/DR30"
+      }
+    ]
+  }
+]
