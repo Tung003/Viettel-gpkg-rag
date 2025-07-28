@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAG Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            margin: 0;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        #chat-box {
+            border: none;
+            padding: 20px;
+            height: 400px;
+            overflow-y: auto;
+            background: #fafafa;
+            border-bottom: 1px solid #eee;
+        }
+
+        .message {
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 10px;
+            max-width: 80%;
+            word-wrap: break-word;
+        }
+
+        .user {
+            background: #e3f2fd;
+            color: #1976d2;
+            margin-left: auto;
+            text-align: right;
+        }
+
+        .bot {
+            background: #e8f5e8;
+            color: #2e7d32;
+        }
+
+        .error {
+            background: #ffebee;
+            color: #c62828;
+        }
+
+        .loading {
+            background: #fff3e0;
+            color: #f57c00;
+            font-style: italic;
+        }
+
+        .input-container {
+            padding: 20px;
+            background: white;
+            display: flex;
+            gap: 10px;
+        }
+
+        input {
+            flex: 1;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 25px;
+            outline: none;
+            font-size: 16px;
+        }
+
+        input:focus {
+            border-color: #4CAF50;
+        }
+
+        button {
+            padding: 12px 20px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 16px;
+            min-width: 80px;
+        }
+
+        button:hover {
+            background: #45a049;
+        }
+
+        button:disabled {
+            background: #cccccc;
+            cursor: not-allowed;
+        }
+
+        .status {
+            padding: 10px 20px;
+            background: #f0f0f0;
+            text-align: center;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>💬 Chatbot RAG Vietnamese</h1>
+            <p>Hỏi đáp thông minh tiếng Việt</p>
+        </div>
+
+        <div class="status" id="status">
+            Đang kiểm tra kết nối...
+        </div>
+
+        <div id="chat-box">
+            <div class="message bot">
+                🤖 Xin chào! Tôi là Tùng trợ lý của bạn. Bạn có thể hỏi tôi về các gói cước di động của nhà mạng Viettel.
+            </div>
+        </div>
+
+        <div class="input-container">
+            <input type="text" id="user-input" placeholder="Nhập câu hỏi của bạn..." disabled>
+            <button id="send-btn" onclick="sendMessage()" disabled>Gửi</button>
+        </div>
+    </div>
+
+    <script>
+        let isProcessing = false;
+
+        // Check system health on load
+        window.onload = async function() {
+            await checkHealth();
+        }
+
+        async function checkHealth() {
+            try {
+                const response = await fetch('/health');
+                const data = await response.json();
+
+                if (data.status === 'healthy' && data.rag_initialized) {
+                    document.getElementById('status').textContent = '✅ Hệ thống sẵn sàng';
+                    document.getElementById('status').style.background = '#e8f5e8';
+                    document.getElementById('user-input').disabled = false;
+                    document.getElementById('send-btn').disabled = false;
+                } else {
+                    throw new Error('RAG system not ready');
+                }
+            } catch (error) {
+                document.getElementById('status').textContent = '❌ Hệ thống chưa sẵn sàng';
+                document.getElementById('status').style.background = '#ffebee';
+                console.error('Health check failed:', error);
+            }
+        }
+
+        // Allow Enter key to send message
+        document.getElementById('user-input').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter' && !isProcessing) {
+                sendMessage();
+            }
+        });
+
+        async function sendMessage() {
+            if (isProcessing) return;
+
+            const input = document.getElementById('user-input');
+            const message = input.value.trim();
+
+            if (!message) {
+                alert('Vui lòng nhập câu hỏi!');
+                return;
+            }
+
+            const chatBox = document.getElementById('chat-box');
+            const sendBtn = document.getElementById('send-btn');
+
+            // Add user message
+            addMessage('user', `🧑‍💻: ${message}`);
+            input.value = '';
+
+            // Show loading state
+            isProcessing = true;
+            sendBtn.disabled = true;
+            sendBtn.textContent = 'Đang xử lý...';
+            input.disabled = true;
+
+            const loadingId = addMessage('loading', '🤖: Đang tìm kiếm thông tin...');
+
+            try {
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => controller.abort(), 30000); // 30 second timeout
+
+                const response = await fetch('/ask', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json'
+                    },
+                    body: JSON.stringify({ question: message }),
+                    signal: controller.signal
+                });
+
+                clearTimeout(timeoutId);
+
+                if (!response.ok) {
+                    const errorData = await response.json().catch(() => ({}));
+                    throw new Error(errorData.detail || `HTTP ${response.status}: ${response.statusText}`);
+                }
+
+                const data = await response.json();
+
+                // Remove loading message
+                removeMessage(loadingId);
+
+                // Add bot response
+                addMessage('bot', `🤖: ${data.answer || 'Không có câu trả lời'}`);
+
+            } catch (error) {
+                // Remove loading message
+                removeMessage(loadingId);
+
+                let errorMessage = '❌ Có lỗi xảy ra: ';
+                if (error.name === 'AbortError') {
+                    errorMessage += 'Yêu cầu quá thời gian chờ (30s)';
+                } else if (error.message.includes('Failed to fetch')) {
+                    errorMessage += 'Không thể kết nối đến server';
+                } else {
+                    errorMessage += error.message;
+                }
+
+                addMessage('error', errorMessage);
+                console.error('Error:', error);
+            } finally {
+                // Reset UI state
+                isProcessing = false;
+                sendBtn.disabled = false;
+                sendBtn.textContent = 'Gửi';
+                input.disabled = false;
+                input.focus();
+            }
+        }
+
+        function addMessage(type, content) {
+            const chatBox = document.getElementById('chat-box');
+            const messageDiv = document.createElement('div');
+            const messageId = Date.now() + Math.random();
+
+            messageDiv.className = `message ${type}`;
+            messageDiv.id = `msg-${messageId}`;
+            messageDiv.innerHTML = content;
+
+            chatBox.appendChild(messageDiv);
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            return messageId;
+        }
+
+        function removeMessage(messageId) {
+            const messageElement = document.getElementById(`msg-${messageId}`);
+            if (messageElement) {
+                messageElement.remove();
+            }
+        }
+    </script>
+</body>
+</html>

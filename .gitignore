@@ -1,0 +1,4 @@
+models/
+venv/
+rag_api.tar
+*.json

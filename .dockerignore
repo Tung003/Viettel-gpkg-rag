@@ -1,0 +1,6 @@
+# Loại venv local
+./venv/
+# Loại cache Python
+__pycache__/
+#loại file idea
+.idea/
